@@ -2,3 +2,4 @@ New
 Save
 Edit
 Delete
+Update
